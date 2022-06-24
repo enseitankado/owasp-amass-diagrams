@@ -6,3 +6,9 @@ I made a visual representation of amass subcommands for new users. I am also a n
 
 # amass enum diagram
 ![amas enum](amas-enum-diagram.png "amass enum command")
+
+# about amass
+Take some paper about amass in my native language. Link above.
+Also I auto-translate to some popular foreign languages, links below:
+
+[owasp-amass-chinese.pdf](owasp-amass-chinese.pdf)
