@@ -8,7 +8,12 @@ I made a visual representation of amass subcommands for new users. I am also a n
 ![amas enum](amas-enum-diagram.png "amass enum command")
 
 # about amass
-Take some paper about amass in my native language. Link above.
-Also I auto-translate to some popular foreign languages, links below:
+I wrote an article on amass in my native language about use cases. The link is above. I also auto-translated this article to some popular foreign languages, links below:
 
 [owasp-amass-chinese.pdf](owasp-amass-chinese.pdf)
+[owasp-amass-english.pdf](owasp-amass-english.pdf)
+[owasp-amass-german.pdf](owasp-amass-german.pdf)
+[owasp-amass-japanese.pdf](owasp-amass-japanese.pdf)
+[owasp-amass-russian.pdf](owasp-amass-russian.pdf)
+[owasp-amass-spanish.pdf](owasp-amass-spanish.pdf)
+[owasp-amass-turkce.pdf](owasp-amass-turkce.pdf)
