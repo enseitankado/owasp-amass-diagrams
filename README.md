@@ -23,3 +23,7 @@ I wrote an article on amass in my native language about use cases. The link is a
  [owasp-amass-spanish.pdf](owasp-amass-spanish.pdf)
  
  [owasp-amass-turkce.pdf](owasp-amass-turkce.pdf)
+ 
+ # Donation
+
+Would you like to buy me a coffee? [Click](https://www.buymeacoffee.com/ozgurkoca).
